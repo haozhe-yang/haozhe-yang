@@ -36,4 +36,4 @@
 
 • Regularly participates in volunteer service and public welfare activities to contribute to society.
 
-<h1 align="center">If you are interested in my introduction, please feel free to contact me via my email📧.</h2>
+<h2 align="center">If you are interested in my introduction, please feel free to contact me via my email📧.</h2>
