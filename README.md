@@ -1,10 +1,9 @@
-### Hi there 👋
-
-<!--
-**haozhe-yang/haozhe-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1align="center">Hi there 👋</h1>
 
 • Name: Haozhe Yang
+
 • Education: Master student
+
 • Major: Civil Engineering
 
 ## Contact
